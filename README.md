@@ -1,6 +1,7 @@
 # mac_changer
 Mac_changer  To change the mac address of ur machine ,wireless network cards and etc  It is implemented on any operating sysytems such as windows,linux,osX...  
 #USAGE
+
 1.apt update &amp;&amp; apt upgrade     
      To update and upgrade the latest version of the packages 
 
